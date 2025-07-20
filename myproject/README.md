@@ -11,4 +11,4 @@ API1 รับ request จาก user แล้วเรียก API2 ต่อ
 2. เข้าโฟลเดอร์ project
 
 ```bash
-cd api_logging_project
+cd myproject
